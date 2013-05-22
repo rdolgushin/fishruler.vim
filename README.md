@@ -8,6 +8,15 @@ Fishruler allows you to visualize desired amount of the fish text.
 It can be usefull when you create a new database table, web-interface or
 just need some text for testing purposes.
 
+Installation ways
+-----------------
+
+* Using [pathogen](https://github.com/tpope/vim-pathogen)
+or [vundle](https://github.com/gmarik/vundle) from
+https://github.com/rdolgushin/fishruler.vim
+* Standard [Vim way](http://vimdoc.sourceforge.net/htmldoc/usr_05.html#add-plugin)
+from http://www.vim.org/scripts/script.php?script_id=4593
+
 
 Fish cheatsheet
 ---------------
