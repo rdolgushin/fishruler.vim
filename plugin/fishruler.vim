@@ -2,16 +2,16 @@
 " File:         fishruler.vim
 " Description:  Fish text ruler
 " Maintainer:   Roman Dolgushin
-" Last Changed: 21-05-2013
+" Last Changed: 22-05-2013
 " Version:      1.1
 " ============================================================================
 
-if exists('g:loaded_loremruler')
-  if g:loaded_loremruler == 0
+if exists('g:loaded_fishruler')
+  if g:loaded_fishruler == 0
     finish
   endif
 endif
-let g:loaded_loremruler = 1
+let g:loaded_fishruler = 1
 
 let s:save_cpo = &cpo
 set cpo&vim
