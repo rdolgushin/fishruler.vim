@@ -1,5 +1,5 @@
-Fish text ruler plugin for Vim
-==============================
+Fish text ruler for Vim
+=======================
 
 About
 -----
