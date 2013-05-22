@@ -50,5 +50,3 @@ Feedback
 
 If you have any ideas, feel free to open a discussion on the
 https://github.com/rdolgushin/fishruler.vim/issues
-
-Good luck!
