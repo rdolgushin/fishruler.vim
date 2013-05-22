@@ -5,7 +5,7 @@ About
 -----
 
 Fishruler allows you to visualize desired amount of the fish text.
-It can be usefull when you create a new database table, web-interface or
+It can be useful when you create a new database table, web-interface or
 just need some text for testing purposes.
 
 Installation ways
